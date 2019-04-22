@@ -1,4 +1,4 @@
-### j1-sem4 : Sinatra
+#### j1-sem4 : Sinatra
 
 Projet d'Alexandre Labonne @Lab's
 
